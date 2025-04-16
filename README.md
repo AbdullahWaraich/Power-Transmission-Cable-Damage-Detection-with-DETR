@@ -1,5 +1,6 @@
 # Power Transmission Lines Damage Detection
 
+<img src="https://www4.djicdn.com/cms_uploads/ckeditor/pictures/1187/content_9Q3A8646.JPG" width="500" height="600">
 ![Power Line Inspection](https://www4.djicdn.com/cms_uploads/ckeditor/pictures/1187/content_9Q3A8646.JPG)
 
 ## Overview
